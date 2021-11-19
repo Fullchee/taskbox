@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  Chromatic's Intro to Storybook React template
+  Chromatic's Cool Intro to Storybook React template
 </h1>
 
 This template ships with the main React and Storybook configuration files you'll need to get up and running fast.
